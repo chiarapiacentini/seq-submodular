@@ -1,0 +1,20 @@
+searchpattern0 6 8 0.5 v1 v0
+searchpattern1 15 17 0.5 v2 v5
+searchpattern2 22 24 0.5 v3 v5 v4
+searchpattern3 37 39 0.5 v5
+searchpattern4 55 57 0.5 v1
+searchpattern5 58 60 0.5 v5
+searchpattern6 76 78 0.5 v5
+searchpattern7 81 83 0.5 v5
+searchpattern8 91 93 0.5 v5
+searchpattern9 111 113 0.5 v1
+searchpattern10 114 116 0.5 v5
+searchpattern11 133 135 0.5 v4
+searchpattern12 150 152 0.5 v5
+searchpattern13 167 169 0.5 v5
+searchpattern14 173 175 0.5 v5
+searchpattern15 177 179 0.5 v5
+searchpattern16 187 189 0.5 v1
+searchpattern17 199 201 0.5 v1
+searchpattern18 216 218 0.5 v1
+searchpattern19 232 234 0.5 v5
